@@ -10,6 +10,10 @@ Just go in to script folder and run the notebook titled `stravadata.ipynb`. In t
 ## Data
 the data is collected form my perosnal strava account in `https://github.com/Kristine-jo/ExamPSY3035/blob/main/Data/runlog/my_running.csv`
 
+## Citation
+Selvik, K.(2025) Stravadata.ipynd, https://github.com/Kristine-jo/ExamPSY3035
+
+
 ## Contributing
 Contributions are always welcome!
 
