@@ -19,9 +19,7 @@ Selvik, K.(2025) Stravadata.ipynd, https://github.com/Kristine-jo/ExamPSY3035
 ## Contributing
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
+Please send an email to kse036@uit.no if you have any comments, questions or contributions.
 
 ## Author
 Kristine selvik
